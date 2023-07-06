@@ -1,0 +1,37 @@
+[
+    {
+        "img": "https://tonmoyac.github.io/e-school/images/Photos/teacher.png",
+        "name": "Jhankar Mahbub",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat ",
+        "ratings": 5,
+        "prof": "CEO of PH"
+    },
+    {
+        "img": "https://softexpo.com.bd/assets/media/speaker_photo/1676522040.jpg",
+        "name": "Sumit Saha",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat",
+        "ratings": 5,
+        "prof": "CEO of Basis"
+    },
+    {
+        "img": "https://pbs.twimg.com/profile_images/1482722572500631556/T817NErH_400x400.jpg",
+        "name": "HM Nayeem",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat",
+        "ratings": 5,
+        "prof": "Web Engineer"
+    },
+    {
+        "img": "https://yt3.googleusercontent.com/ytc/AGIKgqMcqOskWaPWIVFmjmiFzU3dnhCEmJv1L2YrRXs1=s900-c-k-c0x00ffffff-no-rj",
+        "name": "Hasin Hayder",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat",
+        "ratings": 5,
+        "prof": "Ostad App"
+    },
+    {
+        "img": "https://pbs.twimg.com/media/DcOOnLcX4AAHCUK?format=jpg&name=large",
+        "name": "Karina Islam",
+        "desc": "Advisor of PH",
+        "ratings": 5,
+        "prof": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat"
+    }
+]
